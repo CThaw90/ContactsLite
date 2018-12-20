@@ -1,0 +1,21 @@
+#home-banner {
+    transform: translate(-50%, -50%);
+    position: fixed;
+    left: 50%;
+    top: 50%;
+}
+
+#home-banner h1 {
+    font-size: 36px;
+    margin: auto;
+}
+
+#home-banner p {
+    text-align: center;
+}
+
+p a {
+    text-decoration: none;
+    color: #4A90E2;
+    margin: auto;
+}
