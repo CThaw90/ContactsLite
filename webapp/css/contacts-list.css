@@ -1,0 +1,19 @@
+#side-panel {
+    height: 100%;
+    padding: 5px;
+    float: left;
+}
+
+#side-panel ul.list-item-container {
+    list-style-type: none;
+    padding: 0;
+}
+
+#side-panel .list-item-container .list-item {
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+.list-item p {
+    margin: 3px;
+}
